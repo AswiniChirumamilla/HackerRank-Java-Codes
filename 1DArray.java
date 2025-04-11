@@ -6,7 +6,6 @@ If cell  contains a zero, you can walk to cell .
 If cell  contains a zero, you can jump to cell .
 If you're standing in cell  or the value of , you can walk or jump off the end of the array and win the game.
 In other words, you can move from index  to index , , or  as long as the destination index is a cell containing a . If the destination index is greater than , you win the game.
-
 Function Description
 
 Complete the canWin function in the editor below.
