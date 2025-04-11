@@ -2,9 +2,7 @@ The Calendar class is an abstract class that provides methods for converting bet
 You are given a date. You just need to write the method, , which returns the day on that date. To simplify your task, we have provided a portion of the code in the editor.
 Example
 The method should return  as the day on that date.
-
 image
-
 Function Description
 
 Complete the findDay function in the editor below.
