@@ -4,9 +4,7 @@ Example
 The method should return  as the day on that date.
 image
 Function Description
-
 Complete the findDay function in the editor below.
-
 findDay has the following parameters:
 
 int: month
