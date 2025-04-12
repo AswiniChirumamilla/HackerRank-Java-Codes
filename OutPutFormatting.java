@@ -11,7 +11,6 @@ The first column contains the String and is left justified using exactly  charac
 The second column contains the integer, expressed in exactly  digits; if the original input has less than three digits, you must pad your output's leading digits with zeroes.
 
 Sample Input
-
 java 100
 cpp 65
 python 50
