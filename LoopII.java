@@ -9,7 +9,6 @@
 // 0<= q <= 500
 // 0<= a,b <= 50
 // 1<= n <= 15
-
 //Output Format
 //
 //For each query, print the corresponding series on a new line. Each series must be printed in order as a single line of n space-separated integers.
@@ -26,7 +25,6 @@
 //8 14 26 50 98
 
 //Explanation png located on git
-
 
 import java.util.*;
 import java.io.*;
